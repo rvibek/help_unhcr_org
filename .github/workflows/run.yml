@@ -34,6 +34,7 @@ jobs:
         git config --global user.email "rvibek@gmail.com"
         git config --global user.name "rvibek"
         git remote set-url origin https://rvibek:${{ secrets.GH_PAT }}@github.com/rvibek/help_unhcr.git
+        git pull origin main --rebase  # Pull and rebase to integrate remote changes
         git add .
-        git commit -m "$(date +'%Y-%m-%d %H:%M:%S')" 
+        git commit -m "$(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
         git push origin main
