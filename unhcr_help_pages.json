@@ -1,0 +1,2092 @@
+[
+  {
+    "country": "Afghanistan",
+    "iso3": "AFG",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/afghanistan/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/afghanistan/fa-af/"
+      },
+      {
+        "language": "Pashto | پښتو",
+        "url": "https://help.unhcr.org/afghanistan/ps/"
+      }
+    ]
+  },
+  {
+    "country": "Albania",
+    "iso3": "ALB",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/albania/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/albania/uk/"
+      }
+    ]
+  },
+  {
+    "country": "Algeria",
+    "iso3": "DZA",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/algeria/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/algeria/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/algeria/fr/"
+      }
+    ]
+  },
+  {
+    "country": "Anguilla",
+    "iso3": "AIA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "iso3": "ATG",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Argentina",
+    "iso3": "ARG",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/argentina/"
+      }
+    ]
+  },
+  {
+    "country": "Armenia",
+    "iso3": "ARM",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/armenia/"
+      },
+      {
+        "language": "Armenian | Հայերեն",
+        "url": "https://help.unhcr.org/armenia/hy/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/armenia/ar/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/armenia/fa/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/armenia/ru/"
+      }
+    ]
+  },
+  {
+    "country": "Aruba",
+    "iso3": "ABW",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/aruba/"
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "iso3": "AUS",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/australia/ar/"
+      },
+      {
+        "language": "Bengali | বাঙালি",
+        "url": "https://help.unhcr.org/australia/bn/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/australia/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/australia/fa/"
+      },
+      {
+        "language": "Tamil |  தமிழ்",
+        "url": "https://help.unhcr.org/australia/ta/"
+      }
+    ]
+  },
+  {
+    "country": "Austria",
+    "iso3": "AUT",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/austria/"
+      },
+      {
+        "language": "German | Deutsch",
+        "url": "https://help.unhcr.org/austria/de/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/austria/ar/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/austria/ru/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/austria/uk/"
+      },
+      {
+        "language": "Dari / Farsi | دری / فارسی",
+        "url": "https://help.unhcr.org/austria/fa-af/"
+      }
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "iso3": "AZE",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/azerbaijan/"
+      }
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "iso3": "BHS",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      }
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "iso3": "BGD",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/bangladesh/"
+      }
+    ]
+  },
+  {
+    "country": "Barbados",
+    "iso3": "BRB",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      }
+    ]
+  },
+  {
+    "country": "Belarus",
+    "iso3": "BLR",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/belarus/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/belarus/ru/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/belarus/es/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/belarus/fr/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/belarus/ar/"
+      }
+    ]
+  },
+  {
+    "country": "Belgium",
+    "iso3": "BEL",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/belgium/en/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/belgium/"
+      },
+      {
+        "language": "Dutch | Nederlands",
+        "url": "https://help.unhcr.org/belgium/nl/"
+      }
+    ]
+  },
+  {
+    "country": "Belize",
+    "iso3": "BLZ",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/belize/"
+      }
+    ]
+  },
+  {
+    "country": "Bermuda",
+    "iso3": "BMU",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/bolivia/"
+      }
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "iso3": "BIH",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/bosniaandherzegovina/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/bosniaandherzegovina/ar/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/bosniaandherzegovina/fa/"
+      },
+      {
+        "language": "Bosnian | Bosanski",
+        "url": "https://help.unhcr.org/bosniaandherzegovina/bs/"
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "iso3": "BRA",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/brazil/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/brazil/en/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/brazil/es/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/brazil/fr/"
+      },
+      {
+        "language": "Portuguese | Português",
+        "url": "https://help.unhcr.org/brazil/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/brazil/uk/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/brazil/ru/"
+      },
+      {
+        "language": "Dari / Farsi | دری / فارسی",
+        "url": "https://help.unhcr.org/brazil/fa/"
+      },
+      {
+        "language": "Pashto | پښتو",
+        "url": "https://help.unhcr.org/brazil/ps/"
+      }
+    ]
+  },
+  {
+    "country": "British Virgin Islands",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "iso3": "BGR",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/bulgaria/"
+      }
+    ]
+  },
+  {
+    "country": "Burkina Faso",
+    "iso3": "BFA",
+    "help_website": [
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/burkinafaso/"
+      }
+    ]
+  },
+  {
+    "country": "Burundi",
+    "iso3": "BDI",
+    "help_website": [
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/burundi/"
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "iso3": "CAN",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/canada/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/canada/fr/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/canada/es/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/canada/ar/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/canada/ht/"
+      },
+      {
+        "language": "Turkish | Türkçe",
+        "url": "https://help.unhcr.org/canada/tr/"
+      }
+    ]
+  },
+  {
+    "country": "Cayman Islands",
+    "iso3": "CYM",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Chile",
+    "iso3": "CHL",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/chile/"
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "iso3": "CHN",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/china/"
+      }
+    ]
+  },
+  {
+    "country": "Colombia",
+    "iso3": "COL",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/colombia/"
+      }
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "iso3": "CRI",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/costarica/"
+      }
+    ]
+  },
+  {
+    "country": "Croatia",
+    "iso3": "HRV",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/croatia/"
+      }
+    ]
+  },
+  {
+    "country": "Cuba",
+    "iso3": "CUB",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/cuba/"
+      }
+    ]
+  },
+  {
+    "country": "Curacao",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/curacao/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/curacao/en/"
+      }
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "iso3": "CYP",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/cyprus/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/cyprus/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/cyprus/fr/"
+      }
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/czech/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/czech/uk/"
+      }
+    ]
+  },
+  {
+    "country": "Denmark",
+    "iso3": "DNK",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/denmark/"
+      }
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "iso3": "DJI",
+    "help_website": [
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/djibouti/"
+      }
+    ]
+  },
+  {
+    "country": "Dominica",
+    "iso3": "DMA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "iso3": "DOM",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/dominicanrepublic/en/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/dominicanrepublic/"
+      }
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "iso3": "ECU",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/ecuador/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/ecuador/en/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/ecuador/ar/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/ecuador/fa/"
+      }
+    ]
+  },
+  {
+    "country": "Egypt",
+    "iso3": "EGY",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/egypt/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/egypt/en/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/egypt/so/"
+      },
+      {
+        "language": "Amharic | አማርኛ",
+        "url": "https://help.unhcr.org/egypt/am/"
+      },
+      {
+        "language": "Tigrinya | ትግርኛ",
+        "url": "https://help.unhcr.org/egypt/ti/"
+      }
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "iso3": "SLV",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/elsalvador/"
+      }
+    ]
+  },
+  {
+    "country": "Estonia",
+    "iso3": "EST",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/estonia/"
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "iso3": "FIN",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/finland/"
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "iso3": "FRA",
+    "help_website": [
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/france/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/france/en/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/france/ru/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/france/uk/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/france/es/"
+      }
+    ]
+  },
+  {
+    "country": "Georgia",
+    "iso3": "GEO",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/georgia/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/georgia/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/georgia/fa/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/georgia/ru/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/georgia/uk/"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "iso3": "DEU",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/germany/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/germany/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/germany/fr/"
+      },
+      {
+        "language": "German | Deutsch",
+        "url": "https://help.unhcr.org/germany/de/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/germany/fa/"
+      },
+      {
+        "language": "Tigrinya | ትግርኛ",
+        "url": "https://help.unhcr.org/germany/ti/"
+      }
+    ]
+  },
+  {
+    "country": "Greece",
+    "iso3": "GRC",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/greece/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/greece/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/greece/fr/"
+      },
+      {
+        "language": "Greek | Ελληνικά",
+        "url": "https://help.unhcr.org/greece/el/"
+      },
+      {
+        "language": "Kurdish | کوردی",
+        "url": "https://help.unhcr.org/greece/ku/"
+      },
+      {
+        "language": "Turkish | Türkçe",
+        "url": "https://help.unhcr.org/greece/tr/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/greece/fa/"
+      },
+      {
+        "language": "Urdu | اردو",
+        "url": "https://help.unhcr.org/greece/ur/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/greece/uk/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/greece/so/"
+      }
+    ]
+  },
+  {
+    "country": "Grenada",
+    "iso3": "GRD",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "iso3": "GTM",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/guatemala/"
+      }
+    ]
+  },
+  {
+    "country": "Haiti",
+    "iso3": "HTI",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Honduras",
+    "iso3": "HND",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/honduras/"
+      }
+    ]
+  },
+  {
+    "country": "Hungary",
+    "iso3": "HUN",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/hungary/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/hungary/uk/"
+      }
+    ]
+  },
+  {
+    "country": "Iceland",
+    "iso3": "ISL",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/iceland/"
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "iso3": "IND",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/india/"
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "iso3": "IDN",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/indonesia/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/indonesia/so/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/indonesia/fa/"
+      }
+    ]
+  },
+  {
+    "country": "Iran",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/iran/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/iran/en/"
+      }
+    ]
+  },
+  {
+    "country": "Iraq",
+    "iso3": "IRQ",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/iraq/"
+      },
+      {
+        "language": "Bahdini Kurdish | بادینی کوردی",
+        "url": "https://help.unhcr.org/iraq/kb/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/iraq/en/"
+      },
+      {
+        "language": "Sorani Kurdish | کوردیی سۆرانی",
+        "url": "https://help.unhcr.org/iraq/ku/"
+      }
+    ]
+  },
+  {
+    "country": "Ireland",
+    "iso3": "IRL",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/ireland/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/ireland/ar/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/ireland/fr/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/ireland/so/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/ireland/uk/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/ireland/ru/"
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "iso3": "ITA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/italy/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/italy/uk/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/italy/ru/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/italy/ar/"
+      },
+      {
+        "language": "Italian | Italiano",
+        "url": "https://help.unhcr.org/italy/it/"
+      }
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "iso3": "JAM",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "iso3": "JPN",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/japan/"
+      }
+    ]
+  },
+  {
+    "country": "Jordan",
+    "iso3": "JOR",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/jordan/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/jordan/en/"
+      }
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "iso3": "KAZ",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/centralasia/kazakhstan/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/centralasia/ru/kazakhstan/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/centralasia/fa-af/kazakhstan/"
+      }
+    ]
+  },
+  {
+    "country": "Kenya",
+    "iso3": "KEN",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/kenya/"
+      }
+    ]
+  },
+  {
+    "country": "Korea, Republic of",
+    "iso3": "KOR",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/southkorea/"
+      }
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "iso3": "KGZ",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/centralasia/kyrgyzstan/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/centralasia/ru/kyrgyzstan/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/centralasia/fa-af/kazakhstan/"
+      }
+    ]
+  },
+  {
+    "country": "Latvia",
+    "iso3": "LVA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/latvia/"
+      }
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "iso3": "LBN",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/lebanon/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/lebanon/en/"
+      }
+    ]
+  },
+  {
+    "country": "Libya",
+    "iso3": "LBY",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/libya/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/libya/ar/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/libya/so/"
+      },
+      {
+        "language": "Amharic | አማርኛ",
+        "url": "https://help.unhcr.org/libya/am/"
+      },
+      {
+        "language": "Tigrinya | ትግርኛ",
+        "url": "https://help.unhcr.org/libya/ti/"
+      },
+      {
+        "language": "Oromo | Afaan Oromoo",
+        "url": "https://help.unhcr.org/libya/om/"
+      }
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "iso3": "LTU",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/lithuania/"
+      }
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "iso3": "MYS",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/malaysia/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/malaysia/so/"
+      },
+      {
+        "language": "Tamil |  தமிழ்",
+        "url": "https://help.unhcr.org/malaysia/ta/"
+      }
+    ]
+  },
+  {
+    "country": "Malta",
+    "iso3": "MLT",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/malta"
+      }
+    ]
+  },
+  {
+    "country": "Mexico",
+    "iso3": "MEX",
+    "help_website": [
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/mexico/ht/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/mexico/en/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/mexico/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/mexico/fr/"
+      }
+    ]
+  },
+  {
+    "country": "Moldova, Republic of",
+    "iso3": "MDA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/moldova/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/moldova/uk/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/moldova/ru/"
+      },
+      {
+        "language": "Romanian | Română",
+        "url": "https://help.unhcr.org/moldova/ro/"
+      }
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "iso3": "MNG",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/mongolia/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/mongolia/ru/"
+      }
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "iso3": "MNE",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/montenegro/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/montenegro/uk/"
+      }
+    ]
+  },
+  {
+    "country": "Montserrat",
+    "iso3": "MSR",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Morocco",
+    "iso3": "MAR",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/morocco/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/morocco/en/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/morocco/fr/"
+      }
+    ]
+  },
+  {
+    "country": "Netherlands, the",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/netherlands/"
+      },
+      {
+        "language": "Dutch | Nederlands",
+        "url": "https://help.unhcr.org/netherlands/nl/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/netherlands/es/"
+      }
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "iso3": "NZL",
+    "help_website": [
+      {
+        "language": "Bengali | বাঙালি",
+        "url": "https://help.unhcr.org/newzealand/bn/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/newzealand/"
+      },
+      {
+        "language": "Tamil |  தமிழ்",
+        "url": "https://help.unhcr.org/newzealand/ta/"
+      }
+    ]
+  },
+  {
+    "country": "Niger",
+    "iso3": "NER",
+    "help_website": [
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/niger/"
+      }
+    ]
+  },
+  {
+    "country": "North Macedonia",
+    "iso3": "MKD",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/northmacedonia/"
+      },
+      {
+        "language": "Macedonian | македонски",
+        "url": "https://help.unhcr.org/northmacedonia/mk/"
+      }
+    ]
+  },
+  {
+    "country": "Norway",
+    "iso3": "NOR",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/norway/"
+      }
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "iso3": "PAK",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/pakistan/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/pakistan/fa-af/"
+      },
+      {
+        "language": "Pashto | پښتو",
+        "url": "https://help.unhcr.org/pakistan/ps/"
+      }
+    ]
+  },
+  {
+    "country": "Panama",
+    "iso3": "PAN",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/panama/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/panama/en/"
+      }
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "iso3": "PRY",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/paraguay/"
+      }
+    ]
+  },
+  {
+    "country": "Peru",
+    "iso3": "PER",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/peru/"
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "iso3": "POL",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/poland/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/poland/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/poland/ar/"
+      },
+      {
+        "language": "Sorani Kurdish | کوردیی سۆرانی",
+        "url": "https://help.unhcr.org/poland/ku/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/poland/ru/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/poland/fr/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/poland/fa/"
+      },
+      {
+        "language": "Polish | Polski",
+        "url": "https://help.unhcr.org/poland/pl/"
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "iso3": "PRT",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/portugal/"
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "iso3": "ROU",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/romania/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/romania/uk"
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/russia/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/russia/en/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/russia/fr/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/russia/es/"
+      }
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "iso3": "RWA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/rwanda/"
+      }
+    ]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "iso3": "KNA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "iso3": "LCA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Saint Vincent and Grenadines",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "iso3": "SAU",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/ksa/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/ksa/en/"
+      }
+    ]
+  },
+  {
+    "country": "Senegal",
+    "iso3": "SEN",
+    "help_website": [
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/senegal/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/senegal/en/"
+      }
+    ]
+  },
+  {
+    "country": "Serbia",
+    "iso3": "SRB",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/serbia/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/serbia/fr/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/serbia/ar/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/serbia/fa/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/serbia/ru/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/serbia/uk/"
+      },
+      {
+        "language": "Urdu | اردو",
+        "url": "https://help.unhcr.org/serbia/ur/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/serbia/es/"
+      }
+    ]
+  },
+  {
+    "country": "Sint Maarten",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "iso3": "SVK",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/slovakia/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/slovakia/ar/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/slovakia/uk/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/slovakia/ru/"
+      },
+      {
+        "language": "Turkish | Türkçe",
+        "url": "https://help.unhcr.org/slovakia/tr/"
+      }
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "iso3": "SVN",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/slovenia/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/slovenia/uk/"
+      }
+    ]
+  },
+  {
+    "country": "Somalia",
+    "iso3": "SOM",
+    "help_website": [
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/somalia/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/somalia/en/"
+      },
+      {
+        "language": "Amharic | አማርኛ",
+        "url": "https://help.unhcr.org/somalia/am/"
+      },
+      {
+        "language": "Oromo | Afaan Oromoo",
+        "url": "https://help.unhcr.org/somalia/om/"
+      }
+    ]
+  },
+  {
+    "country": "South Africa",
+    "iso3": "ZAF",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/southafrica/"
+      }
+    ]
+  },
+  {
+    "country": "South Sudan",
+    "iso3": "SSD",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/southsudan/"
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "iso3": "ESP",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/spain/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/spain/en/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/spain/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/spain/fr/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/spain/uk/"
+      }
+    ]
+  },
+  {
+    "country": "Sudan",
+    "iso3": "SDN",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/sudan/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/sudan/ar/"
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "iso3": "SWE",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/sweden/"
+      }
+    ]
+  },
+  {
+    "country": "Switzerland and Liechtenstein",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/switzerland/"
+      }
+    ]
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "iso3": "SYR",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/syria/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/syria/ar/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/syria/fa/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/syria/so/"
+      }
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "iso3": "TJK",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/centralasia/tajikistan/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/centralasia/ru/tajikistan/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/centralasia/fa-af/tajikistan/"
+      }
+    ]
+  },
+  {
+    "country": "Thailand",
+    "iso3": "THA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/thailand/"
+      }
+    ]
+  },
+  {
+    "country": "The Pacific",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/pacific/"
+      }
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "iso3": "TTO",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/trinidadandtobago/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/trinidadandtobago/es/"
+      }
+    ]
+  },
+  {
+    "country": "Türkiye",
+    "iso3": "TUR",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/turkiye/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/turkiye/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/turkiye/fa/"
+      },
+      {
+        "language": "Turkish | Türkçe",
+        "url": "https://help.unhcr.org/turkiye/tr/"
+      }
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "iso3": "TKM",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/centralasia/turkmenistan/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/centralasia/ru/turkmenistan/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/centralasia/fa-af/turkmenistan/"
+      }
+    ]
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "iso3": "TCA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/caribbean/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/caribbean/es/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/caribbean/ht/"
+      }
+    ]
+  },
+  {
+    "country": "Uganda",
+    "iso3": "UGA",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/uganda/"
+      }
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "iso3": "UKR",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/ukraine/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/ukraine/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/ukraine/fr/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/ukraine/ru/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/ukraine/fa/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/ukraine/uk/"
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "iso3": "GBR",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/uk/ar/"
+      },
+      {
+        "language": "Pashto | پښتو",
+        "url": "https://help.unhcr.org/uk/ps/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/uk/fa/"
+      }
+    ]
+  },
+  {
+    "country": "United States of America",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/usa/ar/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/usa/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/usa/es/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/usa/fr/"
+      }
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "iso3": "URY",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/uruguay/"
+      }
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "iso3": "UZB",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/centralasia/uzbekistan/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/centralasia/ru/uzbekistan/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/centralasia/fa-af/uzbekistan/"
+      }
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "iso3": "",
+    "help_website": [
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/venezuela/"
+      }
+    ]
+  }
+]
