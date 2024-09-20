@@ -1,6 +1,6 @@
 import json
 
-import pycountry
+import country_converter as coco
 import requests
 from bs4 import BeautifulSoup
 
@@ -9,6 +9,8 @@ url = "https://help.unhcr.org/"
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
+
+cc = coco.CountryConverter()
 
 response = requests.get(url, headers=headers)
 soup = BeautifulSoup(response.content, 'html.parser')
@@ -25,11 +27,36 @@ if content4_div:
     for country_div in country_divs:
         country_name = country_div.find('h4').text.strip()
         
-        # Handle potential errors when getting ISO3 code
-        try:
-            iso3 = pycountry.countries.get(name=country_name).alpha_3
-        except AttributeError:
-            iso3 = ""  # Set to empty string if country not found
+        # Special cases for specific country names
+        if country_name == "The Pacific":
+            iso3 = [
+                "COK",  # Cook Islands
+                "FSM",  # Federated States of Micronesia
+                "FJI",  # Fiji
+                "KIR",  # Kiribati
+                "MHL",  # Republic of the Marshall Islands
+                "NRU",  # Nauru
+                "NIU",  # Niue
+                "PLW",  # Palau
+                "PNG",  # Papua New Guinea
+                "WSM",  # Samoa
+                "SLB",  # Solomon Islands
+                "TON",  # Tonga
+                "TUV",  # Tuvalu
+                "VUT"   # Vanuatu
+        ]
+        elif country_name == "Switzerland and Liechtenstein":
+            iso3 = [
+                "CHE", # Switzerland 
+                "LIE"  # Liechtenstein
+                ]
+        else:
+            # Handle potential errors when getting ISO3 code
+            try:
+                iso3 = cc.convert(names=country_name, to='ISO3')
+            except AttributeError:
+                iso3 = ""  # Set to empty string if country not found
+        
         
         help_website = []
         
