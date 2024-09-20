@@ -704,6 +704,16 @@
     ]
   },
   {
+    "country": "Ethiopia",
+    "iso3": "ETH",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/ethiopia/"
+      }
+    ]
+  },
+  {
     "country": "Finland",
     "iso3": "FIN",
     "help_website": [
