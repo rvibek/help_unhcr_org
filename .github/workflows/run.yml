@@ -3,7 +3,7 @@ name: Run Python Script
 on:
   schedule:
     # Runs every Friday at midnight
-    - cron: '15 21 * * 5'
+    - cron: '0 0 * * 6'
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
