@@ -12,12 +12,12 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         persist-credentials: false  # Disable automatic token authentication
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
         python-version: '3.x'  # Specify the Python version
 
@@ -31,9 +31,15 @@ jobs:
 
     - name: Commit files
       run: |
-          git config user.email "rvibek@gmail.com"
-          git config user.name "rvibek"
-          git remote set-url origin https://rvibek:${{ secrets.GH_PAT }}@github.com/rvibek/help_unhcr_org.git
+          git config --global user.email "rvibek@gmail.com"
+          git config --global user.name "rvibek"
           git add .
           git commit -m "$(date +'%Y-%m-%d %H:%M:%S')"
           git push origin main
+
+          # git config user.email "rvibek@gmail.com"
+          # git config user.name "rvibek"
+          # git remote set-url origin https://rvibek:${{ secrets.GH_PAT }}@github.com/rvibek/help_unhcr_org.git
+          # git add .
+          # git commit -m "$(date +'%Y-%m-%d %H:%M:%S')"
+          # git push origin main
