@@ -128,6 +128,22 @@
       {
         "language": "Spanish | Español",
         "url": "https://help.unhcr.org/aruba/"
+      },
+      {
+        "language": "Dutch | Nederlands",
+        "url": "https://help.unhcr.org/aruba/nl/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/aruba/fr/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/aruba/ht/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/aruba/en/"
       }
     ]
   },
@@ -548,6 +564,18 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/curacao/en/"
+      },
+      {
+        "language": "Dutch | Nederlands",
+        "url": "https://help.unhcr.org/curacao/nl/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/curacao/fr/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/curacao/ht/"
       }
     ]
   },
