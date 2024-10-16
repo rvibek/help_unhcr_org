@@ -1378,6 +1378,20 @@
     ]
   },
   {
+    "country": "Myanmar",
+    "iso3": "MMR",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/myanmar/"
+      },
+      {
+        "language": "Burmese | မြန်မာ",
+        "url": "https://help.unhcr.org/myanmar/my/"
+      }
+    ]
+  },
+  {
     "country": "Netherlands, the",
     "iso3": "NLD",
     "help_website": [
