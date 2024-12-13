@@ -904,6 +904,10 @@
       {
         "language": "Spanish | Español",
         "url": "https://help.unhcr.org/guatemala/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/guatemala/en/"
       }
     ]
   },
@@ -2160,6 +2164,16 @@
       {
         "language": "Spanish | Español",
         "url": "https://help.unhcr.org/venezuela/"
+      }
+    ]
+  },
+  {
+    "country": "Yemen",
+    "iso3": "YEM",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/yemen/"
       }
     ]
   }
