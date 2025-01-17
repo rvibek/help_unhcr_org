@@ -1246,6 +1246,16 @@
     ]
   },
   {
+    "country": "Luxembourg",
+    "iso3": "LUX",
+    "help_website": [
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/luxembourg/"
+      }
+    ]
+  },
+  {
     "country": "Malaysia",
     "iso3": "MYS",
     "help_website": [
