@@ -302,6 +302,10 @@
       {
         "language": "Spanish | Español",
         "url": "https://help.unhcr.org/belize/"
+      },
+      {
+        "language": "English  •",
+        "url": "https://help.unhcr.org/belize/en/"
       }
     ]
   },
@@ -950,6 +954,22 @@
       {
         "language": "Ukrainian | Українська",
         "url": "https://help.unhcr.org/hungary/uk/"
+      },
+      {
+        "language": "Hungarian | Magyar",
+        "url": "https://help.unhcr.org/hungary/hu/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/hungary/ar/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/hungary/fa/"
+      },
+      {
+        "language": "Pashto | پښتو",
+        "url": "https://help.unhcr.org/hungary/ps/"
       }
     ]
   },
