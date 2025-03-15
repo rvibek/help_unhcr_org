@@ -1904,6 +1904,34 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/sweden/"
+      },
+      {
+        "language": "Amharic | አማርኛ",
+        "url": "https://help.unhcr.org/sweden/am/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/sweden/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/sweden/ar/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/sweden/fa-af/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/sweden/ru/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/sweden/so/"
+      },
+      {
+        "language": "Tigrinya | ትግርኛ",
+        "url": "https://help.unhcr.org/sweden/ti/"
       }
     ]
   },
