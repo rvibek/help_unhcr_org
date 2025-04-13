@@ -390,6 +390,10 @@
       {
         "language": "Pashto | پښتو",
         "url": "https://help.unhcr.org/brazil/ps/"
+      },
+      {
+        "language": "Creole | Créole",
+        "url": "https://help.unhcr.org/brazil/ht/"
       }
     ]
   },
@@ -614,6 +618,30 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/denmark/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/denmark/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/denmark/ar/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/denmark/ru/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/denmark/so/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/denmark/fa-af/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/denmark/fa/"
       }
     ]
   },
@@ -724,6 +752,26 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/estonia/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/estonia/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/estonia/ar/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/estonia/fa/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/estonia/ru/"
+      },
+      {
+        "language": "Pashto | پښتو",
+        "url": "https://help.unhcr.org/estonia/ps/"
       }
     ]
   },
@@ -744,6 +792,38 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/finland/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/finland/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/finland/ar/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/finland/ru/"
+      },
+      {
+        "language": "Somali | Soomaali",
+        "url": "https://help.unhcr.org/finland/so/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/finland/es/"
+      },
+      {
+        "language": "Turkish | Türkçe",
+        "url": "https://help.unhcr.org/finland/tr/"
+      },
+      {
+        "language": "Urdu | اردو",
+        "url": "https://help.unhcr.org/finland/ur/"
+      },
+      {
+        "language": "Tigrinya | ትግርኛ",
+        "url": "https://help.unhcr.org/finland/ti/"
       }
     ]
   },
@@ -972,6 +1052,22 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/iceland/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/iceland/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/iceland/ar/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/iceland/ru/"
+      },
+      {
+        "language": "Spanish | Español",
+        "url": "https://help.unhcr.org/iceland/es/"
       }
     ]
   },
@@ -992,14 +1088,6 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/indonesia/"
-      },
-      {
-        "language": "Somali | Soomaali",
-        "url": "https://help.unhcr.org/indonesia/so/"
-      },
-      {
-        "language": "Persian | فارسی",
-        "url": "https://help.unhcr.org/indonesia/fa/"
       }
     ]
   },
@@ -1200,6 +1288,22 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/latvia/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/latvia/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/latvia/ar/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/latvia/fa-af/"
+      },
+      {
+        "language": "Pashto | پښتو",
+        "url": "https://help.unhcr.org/latvia/ps/"
       }
     ]
   },
@@ -1254,6 +1358,30 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/lithuania/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/lithuania/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/lithuania/ar/"
+      },
+      {
+        "language": "French | Français",
+        "url": "https://help.unhcr.org/lithuania/fr/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/lithuania/fa/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/lithuania/ru/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/lithuania/fa-af/"
       }
     ]
   },
@@ -1484,6 +1612,34 @@
       {
         "language": "English  •",
         "url": "https://help.unhcr.org/norway/"
+      },
+      {
+        "language": "Ukrainian | Українська",
+        "url": "https://help.unhcr.org/norway/uk/"
+      },
+      {
+        "language": "Arabic |  العربية",
+        "url": "https://help.unhcr.org/norway/ar/"
+      },
+      {
+        "language": "Russian | Русский",
+        "url": "https://help.unhcr.org/norway/ru/"
+      },
+      {
+        "language": "Persian | فارسی",
+        "url": "https://help.unhcr.org/norway/fa/"
+      },
+      {
+        "language": "Amharic | አማርኛ",
+        "url": "https://help.unhcr.org/norway/am/"
+      },
+      {
+        "language": "Dari | دری",
+        "url": "https://help.unhcr.org/norway/fa-af/"
+      },
+      {
+        "language": "Tigrinya | ትግርኛ",
+        "url": "https://help.unhcr.org/norway/ti/"
       }
     ]
   },
